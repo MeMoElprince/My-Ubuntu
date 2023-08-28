@@ -3,7 +3,7 @@
 ###### Setup my ubuntu environment
 ---
 
-### prerequisite
+## prerequisite
 
 > Open terminal and type the following commands
 
@@ -16,7 +16,7 @@
 
 ---
 
-### Initalizing Git
+## Initalizing Git
 
 > Configuring Git username and email
 
@@ -59,7 +59,7 @@ cat ~/.ssh/id_rsa.pub
 
 ---
 
-### Installing IDE (VS Code)
+## Setting up IDE (VS Code)
 
 > Installing VS Code
 
@@ -89,7 +89,7 @@ sudo snap install --classic code
 
 ---
 
-### Installing zsh/oh-my-zsh
+## Setting up zsh/oh-my-zsh
 
 > Installing zsh
 
