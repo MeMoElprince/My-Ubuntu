@@ -7,12 +7,12 @@
 
 > Open terminal and type the following commands
 
-- installing updates `sudo apt-get update`
-- installing git `sudo apt-get install git`
-- installing curl `sudo apt-get install curl`
-- installing wget `sudo apt-get install wget`
-- intalling C/C++ Compiler `sudo apt install g++`
-
+- Installing updates `sudo apt-get update`
+- Installing git `sudo apt-get install git`
+- Installing curl `sudo apt-get install curl`
+- Installing wget `sudo apt-get install wget`
+- Intalling C/C++ Compiler `sudo apt install g++`
+- Installing gnome for additional settings `sudo apt install gnome-tweaks` 
 
 ---
 
