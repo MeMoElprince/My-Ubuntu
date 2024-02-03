@@ -107,6 +107,34 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 - [x] You have successfully installed oh-my-zsh.
 
-# to be continued...
+## Setting up Theme (Powerlevel10k)
+
+> Installing Powerlevel10k
+
+**Open terminal and type the following command**
+```bash
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+change the theme in .zshrc file
+
+**Open terminal and type the following command to access .zshrc file**
+```bash
+nano ~/.zshrc
+```
+change the theme to powerlevel10k
+
+```bash
+ZSH_THEME="powerlevel10k/powerlevel10k"
+```
+
+> ctl + o to save and ctl + x to exit
+
+> type the following command to apply the changes
+
+```bash
+source ~/.zshrc
+```
+
+- [x] You have successfully installed Powerlevel10k.
 
 ---
